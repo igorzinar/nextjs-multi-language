@@ -10,6 +10,15 @@ This is a simple multi-language website built using **Next.js** with the App Rou
 - **Clean Navigation**: Navigation links include `Home` and `About` pages, allowing users to easily navigate the website.
 - **Dark Mode**: The website adapts to the user's system color scheme (light or dark).
 
+
+## Live Demo
+
+### Check out the deployed version of the project on Vercel: Next.js Multi-Language Website: 
+### https://nextjs-multi-language-seven.vercel.app/home
+
+
+
+
 ## Installation
 
 1. Clone the repository:
