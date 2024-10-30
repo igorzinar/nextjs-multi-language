@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import cookie from "cookie";
 import {getCookieFromClient} from "@/lib/getCookie";
 
 type Translations = {

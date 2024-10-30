@@ -13,7 +13,6 @@ export default async function Home() {
     const language = await cookieStore.get('language')?.value || 'en';
 
     const translations = await getTranslations(language);
-    console.log("translations --->", language, translations)
     return (
         <div className={"contentPage"}>
             <h1>{translations["welcome"] || "Welcome!"}</h1>
